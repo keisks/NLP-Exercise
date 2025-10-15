@@ -1,0 +1,51 @@
+sentence,label_sequence
+fix the book .,VERB DET NOUN PUNCT
+dog but pizza print .,NOUN CCONJ NOUN VERB PUNCT
+a slow refund like .,DET ADJ NOUN VERB PUNCT
+buy the present .,VERB DET NOUN PUNCT
+an old flight drive .,DET ADJ NOUN VERB PUNCT
+We were buying .,PRON AUX VERB PUNCT
+a camera pick .,DET NOUN VERB PUNCT
+I eat cat .,PRON VERB NOUN PUNCT
+We love in a book .,PRON VERB ADP DET NOUN PUNCT
+flies learn quickly .,NOUN VERB ADV PUNCT
+lesson and lesson charge .,NOUN CCONJ NOUN VERB PUNCT
+a new ramen pick .,DET ADJ NOUN VERB PUNCT
+You cook light .,PRON VERB NOUN PUNCT
+They do print documents .,PRON AUX VERB NOUN PUNCT
+charge the refund .,VERB DET NOUN PUNCT
+pick up the book .,VERB PART DET NOUN PUNCT
+this flower run .,DET NOUN VERB PUNCT
+She play when He dance teacher .,PRON VERB SCONJ PRON VERB NOUN PUNCT
+Bob dance flies .,PROPN VERB NOUN PUNCT
+She was cheap .,PRON AUX ADJ PUNCT
+this pizza buy .,DET NOUN VERB PUNCT
+hold the refund .,VERB DET NOUN PUNCT
+She book that He learn package .,PRON VERB SCONJ PRON VERB NOUN PUNCT
+Sarah drive camera .,PROPN VERB NOUN PUNCT
+Does Alice cook ramen .,AUX PROPN VERB NOUN PUNCT
+sushi run slowly .,NOUN VERB ADV PUNCT
+oh I forgot .,INTJ PRON VERB PUNCT
+Alice open sushi .,PROPN VERB NOUN PUNCT
+Tokyo print present .,PROPN VERB NOUN PUNCT
+I were cheap .,PRON AUX ADJ PUNCT
+Google love screen .,PROPN VERB NOUN PUNCT
+He ship record .,PRON VERB NOUN PUNCT
+He run that I eat teacher .,PRON VERB SCONJ PRON VERB NOUN PUNCT
+I is sleeping .,PRON AUX VERB PUNCT
+book or garden sing .,NOUN CCONJ NOUN VERB PUNCT
+an screen sing .,DET NOUN VERB PUNCT
+He love by that flower .,PRON VERB ADP DET NOUN PUNCT
+book the light .,VERB DET NOUN PUNCT
+They sing printer .,PRON VERB NOUN PUNCT
+teacher or ticket play .,NOUN CCONJ NOUN VERB PUNCT
+an cheap light turn .,DET ADJ NOUN VERB PUNCT
+They ship with an coffee .,PRON VERB ADP DET NOUN PUNCT
+He was light .,PRON AUX ADJ PUNCT
+$ 10 refund .,SYM NUM NOUN PUNCT
+You look in this present .,PRON VERB ADP DET NOUN PUNCT
+We ship screen .,PRON VERB NOUN PUNCT
+refund buy slowly .,NOUN VERB ADV PUNCT
+She print present .,PRON VERB NOUN PUNCT
+lesson sleep never .,NOUN VERB ADV PUNCT
+book walk always .,NOUN VERB ADV PUNCT
