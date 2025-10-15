@@ -1,11 +1,11 @@
 sentence,label_sequence
-You were singing .,PRON AUX VERB PUNCT
-read the refund .,VERB DET NOUN PUNCT
-He walk because We record package .,PRON VERB SCONJ PRON VERB NOUN PUNCT
-They call with a room .,PRON VERB ADP DET NOUN PUNCT
-He am reading .,PRON AUX VERB PUNCT
-in the room .,ADP DET NOUN PUNCT
-a fast record pick .,DET ADJ NOUN VERB PUNCT
-You were old .,PRON AUX ADJ PUNCT
-the fast light teach .,DET ADJ NOUN VERB PUNCT
-this record sleep .,DET NOUN VERB PUNCT
+The train arrived ten minutes later than scheduled .,DET NOUN VERB NUM NOUN ADV SCONJ VERB PUNCT
+The child hid behind the curtain to surprise his mother .,DET NOUN VERB ADP DET NOUN PART VERB PRON NOUN PUNCT
+We could n’t hear the announcement because the speakers were broken .,PRON AUX PART VERB DET NOUN SCONJ DET NOUN AUX VERB PUNCT
+The artist painted a portrait of his best friend .,DET NOUN VERB DET NOUN ADP PRON ADJ NOUN PUNCT
+The book you recommended turned out to be fantastic .,DET NOUN PRON VERB VERB ADP PART AUX ADJ PUNCT
+They used recycled materials to build the new playground .,PRON VERB VERB NOUN PART VERB DET ADJ NOUN PUNCT
+I was reading quietly when someone knocked on the door .,PRON AUX VERB ADV SCONJ PRON VERB ADP DET NOUN PUNCT
+She promised to call me as soon as she arrived home .,PRON VERB PART VERB PRON ADV ADV SCONJ PRON VERB ADV PUNCT
+The cat jumped onto the table and knocked over the vase .,DET NOUN VERB ADP DET NOUN CCONJ VERB ADP DET NOUN PUNCT
+He realized he had left his wallet in the car .,PRON VERB PRON AUX VERB PRON NOUN ADP DET NOUN PUNCT
